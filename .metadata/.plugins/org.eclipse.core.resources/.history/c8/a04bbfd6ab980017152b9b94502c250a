@@ -1,0 +1,5 @@
+package br.uscs.microservice;
+
+public class Account {
+
+}

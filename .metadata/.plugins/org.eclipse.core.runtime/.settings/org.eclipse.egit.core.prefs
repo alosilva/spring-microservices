@@ -1,0 +1,4 @@
+GitRepositoriesView.GitDirectories=/root/git/sample-spring-microservices/.git\:
+GitRepositoriesView.GitDirectories.relative=/root/git/sample-spring-microservices/.git\:
+core_autoIgnoreDerivedResources=false
+eclipse.preferences.version=1
